@@ -1,0 +1,14 @@
+opencv-python~=4.5.5.62
+numpy~=1.22.1
+Pillow~=9.0.0
+pip~=21.0.1
+pytest~=6.2.5
+setuptools~=56.0.0
+pyenchant~=3.2.2
+pdf2image~=1.16.0
+pytesseract~=0.3.8
+toml~=0.10.2
+wheel~=0.36.2
+py~=1.11.0
+Flask~=2.0.2
+Werkzeug~=2.0.2

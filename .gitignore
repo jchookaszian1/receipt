@@ -1,0 +1,9 @@
+.idea
+share
+*.jpg
+Lib/
+Scripts
+*.png
+lib64
+bin
+*__pycache__/
